@@ -1,4 +1,8 @@
 {
-  "accessToken":"masyanya",
-  "refreshToken": "mypassword"
+  "auth": [
+    {
+      "accessToken": "masyanya",
+      "refreshToken": "mypassword"
+    }
+  ]
 }
