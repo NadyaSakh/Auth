@@ -1,9 +1,7 @@
 {
-  "auth": [
+  "auth": 
     {
       "accessToken": "masyanya",
       "refreshToken": "mypassword"
     }
-  ],
-  "posts" : 1
 }
