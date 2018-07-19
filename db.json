@@ -2,6 +2,8 @@
   "auth": 
     {
       "accessToken": "masyanya",
-      "refreshToken": "mypassword"
+      "refreshToken": "mypassword",
+      "judgeID": 1,
+      "fullName": "Крутой судья"
     }
 }
