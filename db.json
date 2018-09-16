@@ -4,7 +4,6 @@
       "accessToken": "masyanya",
       "refreshToken": "mypassword",
       "judgeID": 1,
-      "fullName": "Крутой судья",
-      "tags": ""
+      "fullName": "Крутой судья"
     }
 }
